@@ -1,1 +1,1 @@
-{"username":"kevin-salamon"}
+{"username":"kevin-salamon","title":"README Generator","description":"A command line interface used to generate READMEs","installations":[],"usage":"","contributors":"","license":"ISC","test":"npm test"}
