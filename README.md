@@ -3,7 +3,7 @@
 
 ## Project Description 
 
-> A command line interface used to generate READMEs.
+> A command line interface used to generate READMEs. 
 
 ## Table of Contents 
 
@@ -19,19 +19,21 @@
 
 ## Installations and Dependencies 
 
-> FS
+1. FS
+2. Inquirer
+3. Axios
 
 ## Usage 
 
-> Answer the prompts within the command line interface to generate READMEs for any given project.
+> Answer the prompts within the command line interface to generate READMEs for any given project. The README will populate based on your answers. Run the program by typing "node index" in the command line, while in the proper directory.
 
 ## Additional Contributors 
 
-> Kevin
+> Kevin Salamon
 
 ## License 
 
-* ISC
+* N/A
 
 ## Testing 
 

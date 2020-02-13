@@ -43,7 +43,7 @@ inquirer
     {
       type: "list",
       message: "Please enter the licensing that will be used.",
-      choices: ["ISC", "MIT", "APACHE"],
+      choices: ["ISC", "MIT", "APACHE", "BSD", "NPM"],
       name: "license"
     },
     {
